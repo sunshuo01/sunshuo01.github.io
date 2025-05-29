@@ -10,9 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+(* indicates corresponding author,)
 
-*aalsjld*<br>
-**sjdlfjl sldkj**
+**A multimodal foundation agent for financial trading: Tool-augmented, diversified, and generalist.**<br>
+KDD 2024
+*Wentao Zhang, Lingxuan Zhao, Haochong Xia, **Shuo Sun**, Jiaze Sun*, Molei Qin†, Xinyi Li, Yuqing Zhao,
+Yilei Zhao, Xinyu Cai, Longtao Zheng, Xinrun Wang, Bo An*
+
 
 **sjdlfjl sldkj**
 
