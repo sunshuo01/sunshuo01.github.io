@@ -11,6 +11,8 @@ I am an incoming Assistant Professor at the FinTech Thrust, HKUST (GZ). I receiv
 
 <span style="color:blue">I am actively looking for PhDs, RA/interns to join my research group. Please send me an email with your CV if you are interested.</span>
 
+<span style="color:blue">Email: shuo003[at]e.ntu.sg</span>
+
 Education
 ======
 * Ph.D in Computer Science, Nanyang Technological University, 2021 - 2025
