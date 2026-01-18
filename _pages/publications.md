@@ -12,6 +12,10 @@ author_profile: true
 {% include base_path %}
 (* and † indicate equal contribution and corresponding author)
 
+**FineFT: Efficient and risk-aware ensemble reinforcement learning for futures trading**<br>
+KDD 2026<br>
+*Molei Qin, Xinyu Cai, Yewen Li, Haochong Xia, Chuqiao Zong, **Shuo Sun**, Xinrun Wang, Bo An*
+
 **A multimodal foundation agent for financial trading: Tool-augmented, diversified, and generalist**<br>
 KDD 2024<br>
 *Wentao Zhang, Lingxuan Zhao, Haochong Xia, **Shuo Sun**, Jiaze Sun, Molei Qin, Xinyi Li, Yuqing Zhao,
