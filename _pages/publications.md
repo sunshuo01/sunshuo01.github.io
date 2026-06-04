@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 (* and † indicate equal contribution and corresponding author)
+**Towards event-aware forecasting in defi: Insights from on-chain automated market maker protocols**<br>
+KDD 2026<br>
+*Huaiyu Jia, Jieshun You, Jingyu Liu, Yizhi Luo, **Shuo Sun**†*
+
+**AlphaForgeBench: Benchmarking end-to-end trading strategy design with large language models**<br>
+KDD 2026<br>
+*Wentao Zhang, Mingxuan Zhao, Jincheng Gao, Jieshun You, Huaiyu Jia, Yilei Zhao, Bo An, **Shuo Sun**†*
 
 **FineFT: Efficient and risk-aware ensemble reinforcement learning for futures trading**<br>
 KDD 2026<br>
