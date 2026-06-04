@@ -26,10 +26,10 @@ author:
   name             : "Shuo Sun"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Singapore"
-  employer         : "NTU"
+  location         : "Guangzhou"
+  employer         : "HKUST(GZ)"
   uri              : # URL
-  email            : "shuo003@e.ntu.edu.sg" 
+  email            : "shuosun@hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/shuo-sun-73b82918b/" # Username
+  linkedin         : #"https://www.linkedin.com/in/shuo-sun-73b82918b/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
